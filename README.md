@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeasonlee313
       In fact, my name is LiJiasong
 - 👀 I’m interested in CV (Computer Vision)
-      In fact, I have more interest on otherthings than work.
 - 🌱 I’m currently learning tracking online
 - 💞️ I’m looking to collaborate on neural network training
 - 📫 How to reach me jeasonlee@nuaa.edu.cn
